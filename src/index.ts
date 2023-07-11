@@ -1,7 +1,3 @@
-# firstassignment
-
-08 July 2023
-
 // 1. Install Node.js, TypeScript and VS Code on your computer.
 console.log('Hello World!')
 
@@ -12,5 +8,5 @@ console.log(`Hello ${person}, would you like to learn some Python today?`)
 // Name Cases: Store a person’s name in a variable, and then print that person’s name in lowercase, uppercase, and titlecase.
 let person_name: string = 'Ali Haider'
 console.log(
-`Titlecase: ${person_name.()}, Uppercase: ${person_name.toUpperCase()}, Lowercase: ${person_name.toLocaleLowerCase()}`
+  `Titlecase: ${person_name.()}, Uppercase: ${person_name.toUpperCase()}, Lowercase: ${person_name.toLocaleLowerCase()}`
 )
